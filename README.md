@@ -1,5 +1,5 @@
 - 👋 <b> Hi, I’m @Nisarga2202 </b>
-# 💫 About Me:
+
 Aspiring Python Developer with a strong foundation in coding and a passion for innovative solutions.<br> My journey in programming began with a fascination for how technology can solve real-world problems. <br>I have honed my skills in Python, specializing in data analysis, automation, and web development.<br><br>I thrive in collaborative environments and enjoy working with teams to bring creative ideas to life. <br>My goal is to continuously learn and grow within the tech industry, <br>contributing to projects that make a meaningful impact.
 
 
